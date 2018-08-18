@@ -1,0 +1,1 @@
+﻿public enum Mob { VINE, DIVER, MOLE_JUMPER, DUMB_PATROL, SEEKER_PATROL }

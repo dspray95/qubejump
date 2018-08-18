@@ -1,0 +1,1 @@
+﻿public enum CaveType { LOW, MID, HIGH, CAVERN};
